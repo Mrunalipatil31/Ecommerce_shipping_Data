@@ -28,7 +28,7 @@ The dataset used contained 10999 observations with 12 variables.
 
 Split data into train and test
 
-Trained model with 6 different algorithms such as Logistic Regression,K-Nearest Neighbors,Decision Tree,Support Vector Machine,Random Forest,Gradient Boosting
+Trained model with 6 different algorithms such as Logistic Regression,K-Nearest Neighbors,Decision Tree,Support Vector Machine,Random Forest,Gradient Boosting.
 
 Based on the model eveluation Gradient Boosting Algorithm gives higher accuracy comparatively to other models.
 
@@ -38,6 +38,7 @@ Based on the model eveluation Gradient Boosting Algorithm gives higher accuracy 
 * Customers rating is determined by qualtiy of the product.
 
 **Business Recoomendations**
+
 > Add estimated arrival time to assure the package arrived on time.
 
 > Add more features to give more specific and accurate insights and perform operational audit based on the insights.
