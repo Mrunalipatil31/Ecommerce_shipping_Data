@@ -28,4 +28,4 @@ The dataset used contained 10999 observations with 12 variables.
 
 Split data into train and test
 
-Trained model with 5 different algorithms such as Logistic Regression
+Trained model with 6 different algorithms such as Logistic Regression,K-Nearest Neighbors,Decision Tree,Support Vector Machine,Random Forest,Gradient Boosting
