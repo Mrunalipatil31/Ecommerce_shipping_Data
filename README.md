@@ -24,7 +24,7 @@ An international e-commerce company that sells electronic products want to disco
 
 The dataset used contained 10999 observations with 12 variables.
 
-**Modelling**
+**Modeling**
 
 Split data into train and test
 
